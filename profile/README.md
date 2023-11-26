@@ -1,10 +1,8 @@
 # SilvaSatellit
 
-<div style="position: relative">
-<img src="./images/logo.jpeg" alt="Logo" style="border-radius:20%; box-shadow:0 0 10px 1px grey">
+<img src="/profile/images/logo.jpeg" alt="Logo">
 
-<img src="./images/CanSatLogo.png" alt="CanSat Logo" style="position: absolute; top: -20%;right:-35%;scale:.5">
-</div>
+<img src="/profile/images/CanSatLogo.png" alt="CanSat Logo">
 
 ## Wer sind wir?
 
